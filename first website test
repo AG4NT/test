@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>About Valorant</title>
+    <style>
+         body{
+        background-attachment: fixed;
+        background-color: black;
+    background-image: url(val/val\ image.avif);
+    background-size: cover;
+         }
+        .logo-title{
+            background-image: url(val/VALORANT.png);
+            background-size: contain;
+            background-repeat: no-repeat;
+            height: 100px;/*adjust as needed */
+            text-align: center;
+            color: rgb(253, 253, 253);
+            line-height: 100px;/*center the next vertically*/
+        }
+  
+    </style>
+</head>
+<div class="logo-title"> whats valorant?</div>
+
+<body>
+    <p style="color: rgb(0, 0, 0);"> <h4> Valorant its a tactical first-person shooter (FPS) developed and published by Riot Games, the creators of League of Legends. Released in June 2020, the game quickly gained popularity thanks to its blend of precise, strategy-driven gunplay and unique character abilities. The game features a cast of "agents," each with distinct abilities that complement traditional shooting mechanics, adding layers of strategy to each match. Players are divided into two teams: attackers and defenders, with the main objective being either to plant or defuse a bomb (known as the "spike") in a series of rounds.
+        
+        <br>Unlike many other FPS titles, Valorant emphasizes team coordination, strategic planning, and positioning rather than just raw aim skills. Each agent’s abilities—such as smokes, flashes, heals, or reconnaissance tools—can turn the tide of a round when used effectively, requiring teams to adapt to different playstyles and counterplay strategies. The game’s tactical depth is enhanced by its reliance on economy management, where players earn money based on their performance and must carefully choose their weapons and abilities in each round, making resource management as important as aiming.
+       
+        <br>The competitive nature of Valorant is reinforced by its ranking system, which drives players to continually improve their skills. From casual play to high-level esports tournaments, Valorant has established itself as a global phenomenon with a strong esports presence. Riot Games continues to update the game with new agents, maps, and balance changes, keeping the gameplay fresh and competitive. This focus on both accessibility and depth has allowed Valorant to carve out a distinct niche in the FPS genre, appealing to both casual players and esports enthusiasts alike. and if you to discover more click on the linke </p>
+    </h4>
+        <a href="https://playvalorant.com/ar-ae/">link </a>
+</body>
+</html>
