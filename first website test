@@ -11,6 +11,7 @@
         background-color: black;
     background-image: url(val/val\ image.avif);
     background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
          }
         .logo-title{
             background-image: url(val/VALORANT.png);
@@ -21,6 +22,36 @@
             color: rgb(253, 253, 253);
             line-height: 100px;/*center the next vertically*/
         }
+        footer{ 
+    border-radius: 4px;
+    color: #e8eaed;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+a {
+    text-decoration: solid;
+    border: 1px solid #303134;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    font-family: fantasy;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+
+}
   
     </style>
 </head>
@@ -33,6 +64,13 @@
        
         <br>The competitive nature of Valorant is reinforced by its ranking system, which drives players to continually improve their skills. From casual play to high-level esports tournaments, Valorant has established itself as a global phenomenon with a strong esports presence. Riot Games continues to update the game with new agents, maps, and balance changes, keeping the gameplay fresh and competitive. This focus on both accessibility and depth has allowed Valorant to carve out a distinct niche in the FPS genre, appealing to both casual players and esports enthusiasts alike. and if you to discover more click on the linke </p>
     </h4>
-        <a href="https://playvalorant.com/ar-ae/">link </a>
+        <a href="https://playvalorant.com/ar-ae/" style="color: rgb(248, 248, 248);">link </a>
 </body>
+<footer>
+    <p style="color: rgb(0, 0,0);"&copy ; 2023 valorant> Riot Games accounts : <br>
+        <a href="https://www.instagram.com/riotgames/"> instagram</a> <br> 
+        <a href="https://www.youtube.com/@riotgames"> youtube</a>
+
+    </p>
+</footer>
 </html>
